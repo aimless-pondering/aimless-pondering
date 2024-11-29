@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @aimless-pondering
+- 👀 I’m interested in: Learning any type of scripting (Mainly curious about JavaScript & Lua)
+- 🌱 I’m currently: learning General Scripting (I'm Stupid)
+- 💞️ I’m looking to collaborate on: Begginer Projects
+- 📫 How to reach me: Just text me anytime
+- 😄 Pronouns: Anything, I don't care
+- ⚡ Fun fact: I'm a Github Noob
